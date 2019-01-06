@@ -1,4 +1,4 @@
-class ApplicationController < Sinatra::Base
+jclass ApplicationController < Sinatra::Base
 
   configure do
   	set :views, "app/views"
